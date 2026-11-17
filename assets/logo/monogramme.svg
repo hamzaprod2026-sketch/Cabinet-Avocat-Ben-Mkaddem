@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Monogramme BMA">
+<rect x="2" y="2" width="96" height="96" fill="#14243a"/>
+<path d="M19 18h62v64H19z" fill="none" stroke="#b99a5b" stroke-width="1.5"/>
+<text x="50" y="57" text-anchor="middle" font-family="Georgia,serif" font-size="29" fill="#f8f7f4" letter-spacing="-2">BMA</text>
+<path d="M34 68h32" stroke="#b99a5b" stroke-width="1.5"/>
+</svg>
